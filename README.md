@@ -1,12 +1,12 @@
 # WinViate
 
-# What Is WinViate?
+## What Is WinViate?
 WinViate (Windows Aleviation) is a Windows command line interface tool that includes tweaks 
 that improve the performance of your PC. It is coded 100% in python using winreg to edit, 
 create, and read windows registry keys, os to run cmd commands, shutil to edit, create, and 
 read files, and subprocess to run powershell commands.
 
-# What Tweaks Are There?
+## What Tweaks Are There?
 WinViate 1.0 consists of 44 tweaks, they are:
 
     1 - Turn On Game Mode - Game mode is a Windows setting designed to improve performance when gaming
@@ -53,20 +53,20 @@ WinViate 1.0 consists of 44 tweaks, they are:
     42 - Disable Certificate Propagation Service - the Certificate Propagation Service reads the certificate of user inserted smart cards
     43 - Disable Windows OneSyncSvc - the OneSyncSvc synchronizes your microsoft apps
 
-# What Is Being Added?
+## What Is Being Added?
   - Well Coded GUI
   - More Tweaks
     44 - Disable Windows Updates - Windows Updates update the windows version on your PC
 
-# How To Start The Program
+## How To Start The Program
 
-## Executable
+### Executable
 To run the WinViate.exe file you need to:
 
     1 - Download the latest version of WinViate.exe from the Releases page
     2 - Run the exe file
 
-## Python
+### Python
 To run the WinViate.py file you need to:
 
     1 - Download the latest version of WinViate.py from the Releases page
