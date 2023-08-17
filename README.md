@@ -52,12 +52,7 @@ WinViate 1.0 consists of 44 tweaks, they are:
     41 - Disable Downloaded Maps Manager - Downloaded Maps Manager updates downloaded offline maps
     42 - Disable Certificate Propagation Service - the Certificate Propagation Service reads the certificate of user inserted smart cards
     43 - Disable Windows OneSyncSvc - the OneSyncSvc synchronizes your microsoft apps
-
-## What Is Being Added?
-  - Well Coded GUI
-  - More Tweaks
-    44 - Disable Windows Updates - Windows Updates update the windows version on your PC
-
+    
 ## How To Start The Program
 
 ### Executable
@@ -73,3 +68,12 @@ To run the WinViate.py file you need to:
     2 - Download a Python version of your choise from python.org
     3 - Open cmd in the same directory as WinViate.py by using the cd command to go into a folder E.g cd \ (to go to root folder), cd Users, cd 'YourUser', cd Downloads
     4 - Run the command pyhton WinViate.py
+    
+## What Is Being Added?
+  - Well Coded GUI
+  - More Tweaks
+    44 - Disable Windows Updates - Windows Updates update the windows version on your PC
+
+
+
+    
