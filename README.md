@@ -1,7 +1,9 @@
+https://badgen.net/badge/icon/windows?icon=windows&label
+
 # WinViate
 
 ## What Is WinViate?
-WinViate (Windows Aleviation) is a Windows command line interface tool that includes tweaks 
+WinViate (Windows Alleviation) is a Windows command line interface tool that includes tweaks 
 that improve the performance of your PC. It is coded 100% in python using winreg to edit, 
 create, and read windows registry keys, os to run cmd commands, shutil to edit, create, and 
 read files, and subprocess to run powershell commands.
@@ -74,6 +76,7 @@ To run the WinViate.py file you need to:
   - More Tweaks
     44 - Disable Windows Updates - Windows Updates update the windows version on your PC
 
+## Licence
 
-
-    
+WinViate uses the MIT licence
+https://www.mit.edu/~amini/LICENSE.md
