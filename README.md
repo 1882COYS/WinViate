@@ -62,4 +62,4 @@ WinViate 1.0 consists of 44 tweaks, they are:
 
 ##Python
 To run the WinViate.py file you need to:
-1 Download WinViate.py from the 
+    1. Download WinViate.py from the 
