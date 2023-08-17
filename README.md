@@ -81,4 +81,4 @@ To run the WinViate.py file you need to:
 ## Licence
 
 WinViate uses the MIT licence
-https://www.mit.edu/~amini/LICENSE.md
+https://github.com/1882COYS/WinViate/blob/main/LICENSE
