@@ -1,4 +1,4 @@
-https://badgen.net/badge/icon/windows?icon=windows&label
+https://badgen.net/github/license/micromatch/micromatch
 
 # WinViate
 
