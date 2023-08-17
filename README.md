@@ -60,9 +60,16 @@ WinViate 1.0 consists of 44 tweaks, they are:
 
 # How To Start The Program
 
+## Executable
+To run the WinViate.exe file you need to:
+
+    1 - Download the latest version of WinViate.exe from the Releases page
+    2 - Run the exe file
+
 ## Python
 To run the WinViate.py file you need to:
-    1 - Download WinViate.py from the Releases page
-    2 - Download a Python version of your choise
+
+    1 - Download the latest version of WinViate.py from the Releases page
+    2 - Download a Python version of your choise from python.org
     3 - Open cmd in the same directory as WinViate.py by using the cd command to go into a folder E.g cd \ (to go to root folder), cd Users, cd 'YourUser', cd Downloads
     4 - Run the command pyhton WinViate.py
