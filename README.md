@@ -57,3 +57,9 @@ WinViate 1.0 consists of 44 tweaks, they are:
   - Well Coded GUI
   - More Tweaks
     44 - Disable Windows Updates - Windows Updates update the windows version on your PC
+
+# How To Start The Program
+
+##Python
+To run the WinViate.py file you need to:
+1 Download WinViate.py from the 
