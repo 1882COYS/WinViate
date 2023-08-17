@@ -1,5 +1,6 @@
-![Static Badge](-https://img.shields.io/badge/any_text-you_like-blue)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # WinViate
 
@@ -55,6 +56,7 @@ WinViate 1.0 consists of 44 tweaks, they are:
     41 - Disable Downloaded Maps Manager - Downloaded Maps Manager updates downloaded offline maps
     42 - Disable Certificate Propagation Service - the Certificate Propagation Service reads the certificate of user inserted smart cards
     43 - Disable Windows OneSyncSvc - the OneSyncSvc synchronizes your microsoft apps
+    44 - Disable Windows Updates - Windows Updates update the windows version on your PC
     
 ## How To Start The Program
 
@@ -75,7 +77,6 @@ To run the WinViate.py file you need to:
 ## What Is Being Added?
   - Well Coded GUI
   - More Tweaks
-    44 - Disable Windows Updates - Windows Updates update the windows version on your PC
 
 ## Licence
 
