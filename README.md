@@ -1,4 +1,4 @@
-https://badgen.net/github/license/micromatch/micromatch
+github/:topic<watchers|stars|forks|branches|releases|tags|tag|license>/:owner/:repo
 
 # WinViate
 
