@@ -5,13 +5,13 @@
 # WinViate
 
 ## What Is WinViate?
-WinViate (Windows Alleviation) is a Windows command line interface tool that includes tweaks 
+WinViate (Windows Alleviation) is a Windows graphical user interface tool that includes tweaks 
 that improve the performance of your PC. It is coded 100% in python using winreg to edit, 
 create, and read windows registry keys, os to run cmd commands, shutil to edit, create, and 
-read files, and subprocess to run powershell commands.
+read files, subprocess to run powershell commands, and PySimpleGUI for GUI.
 
 ## What Tweaks Are There?
-WinViate 1.0 consists of 44 tweaks, they are:
+WinViate 2.0.0 consists of 44 tweaks, they are:
 
     1 - Turn On Game Mode - Game mode is a Windows setting designed to improve performance when gaming
     2 - Turn Off Notifications - Removes notifications
@@ -72,10 +72,10 @@ To run the WinViate.py file you need to:
     1 - Download the latest version of WinViate.py from the Releases page
     2 - Download a Python version of your choise from python.org
     3 - Open cmd in the same directory as WinViate.py by using the cd command to go into a folder E.g cd \ (to go to root folder), cd Users, cd 'YourUser', cd Downloads
-    4 - Run the command pyhton WinViate.py
+    4 - Run the command python 'filename'.py
     
 ## What Is Being Added?
-  - Well Coded GUI
+  - Better GUI
   - More Tweaks
 
 ## Licence
